@@ -1,0 +1,30 @@
+{
+  "name": "upgradeable-contracts Initialzie Value Upgradeable Contract",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^2.0.0",
+    "@nomiclabs/hardhat-ethers": "^2.2.2",
+    "@openzeppelin/contracts-upgradeable": "^4.8.2",
+    "@openzeppelin/hardhat-upgrades": "^1.22.1",
+    "ethers": "^5.7.2",
+    "hardhat": "^2.13.0"
+  },
+  "author": {
+    "name": "moayaan.eth",
+    "email": "ayaangames@gmail.com"
+  },
+  "license": "MIT",
+  "keywords": [
+    "web3",
+    "ethereum",
+    "hardhat",
+    "upgradeable",
+    "contracts",
+    "initializable",
+    "value",
+    "upgradeable-contracts",
+    "upgradeable-contracts-initializable-value"
+  ],
+  "dependencies": {
+    "dotenv": "^16.0.3"
+  }
+}
